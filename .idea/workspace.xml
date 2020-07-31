@@ -27,7 +27,10 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="JavaScript Debug.hello.html">
+  <component name="RunManager" selected="JavaScript Debug.hello.html (1)">
+    <configuration name="hello.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/js-practices/hello/hello.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="hello.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/js-practices/hello.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -36,6 +39,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.hello.html (1)" />
         <item itemvalue="JavaScript Debug.hello.html" />
         <item itemvalue="Node.js.main.js" />
       </list>
@@ -49,7 +53,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1596153854266</updated>
-      <workItem from="1596153855610" duration="1935000" />
+      <workItem from="1596153855610" duration="5392000" />
     </task>
     <servers />
   </component>
@@ -57,6 +61,14 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="719" y="310" key="#Web_Browsers" timestamp="1596196399631">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="719" y="310" key="#Web_Browsers/0.0.1920.1044@0.0.1920.1044" timestamp="1596196399631" />
+    <state x="748" y="281" key="FileChooserDialogImpl" timestamp="1596196185073">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="748" y="281" key="FileChooserDialogImpl/0.0.1920.1044@0.0.1920.1044" timestamp="1596196185073" />
     <state x="456" y="140" key="SettingsEditor" timestamp="1596158178231">
       <screen x="0" y="0" width="1920" height="1044" />
     </state>
